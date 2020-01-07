@@ -1,4 +1,3 @@
-**MINI PROPOSAL**
 
 # PROJECT TITLE: PIZZA DELIVERY SYSTEM
 
@@ -13,37 +12,3 @@ This project is about a pizza delivery system. Online pizza ordering services ar
 
 Manual system involves paper work in the form of maintaining various files and manuals. Maintaining
 critical information in the files and manuals is full of risk and a tedious process. Including a framework, showing how to apply (nternet technology progressively as skills and confidence grow, the protect demonstrates the route from adapting materials to developing an online environment. Nowadays people don't have much time to spend in restaurant by just there and waiting for the waiter to take their order. Many customer visits the restaurant in their lunch break and recess so they have limited time to eat and return to the respective office and colleges. So, this software helps them to save time and order food whenever they want without calling the waiter again and again.
-#
-# System Architecture
-
-Use Case
-![alt text](https://drive.google.com/uc?export=view&id=1rGND99sDcB961EZXrreUfprhxEHmHDRs)
-
-#
-# Domain Model
-
-Class Diagram
-![alt text](https://drive.google.com/uc?export=view&id=1nmA5Fh7NTmYF3lYsfxLsFe4OePRPdEC8)
-
-#
-# Entity-Relationship Diagram
-
-![alt text](https://drive.google.com/uc?export=view&id=109GyGWKDYCDM1hJ9Gqbp1nGphZO5-Shm)
-
-
-#
-# Database Tables
-
-![alt text](https://drive.google.com/uc?export=view&id=1GK0Xd5sLGb-I_YwPWjz7h55O6bfaN78L)
-
-#
-# User Interface
-
-![alt text](https://drive.google.com/uc?export=view&id=1Em_7SFvVAFroStgXu834CKoE5alhM7De)
-
-![alt text](https://drive.google.com/uc?export=view&id=1gcLx-ZaCtCjeMF49fcJJHpeTsZMZObBl)
-
-#
-# Website(s) where the main Django server is based.
-
-http://127.0.0.1:8000/
