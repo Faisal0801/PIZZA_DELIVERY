@@ -47,3 +47,14 @@ Class Diagram
 # Website(s) where the main Django server is based.
 
 http://127.0.0.1:8000/
+
+#
+
+# Database from SQLite
+
+![alt text](https://drive.google.com/uc?export=view&id=1A2VxvthUIJlHZ13Mf1RLDv_EXLK6_rI6)
+
+![alt text](https://drive.google.com/uc?export=view&id=1vQRUjCuEM0KX_X1VIeZMM5FdkdwJnwOs)
+
+![alt text](https://drive.google.com/uc?export=view&id=1MMz-iXPLHCgbJegW9GUknJugy2P0eJIF)
+
